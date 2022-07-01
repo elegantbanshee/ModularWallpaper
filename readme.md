@@ -21,3 +21,10 @@ GPL v2
 
 
 [ModularWallaperMacSwift](https://github.com/elegantbanshee/ModularWallpaperMacSwift)
+
+# Building 
+
+Compile ModularWallaper.java to a class file.
+
+
+`javac --add-modules jdk.incubator.foreign ModularWallpaper.java`
